@@ -3,7 +3,7 @@
 
 <p align="center">
  
-   ###  I´m Camis , a Software Engineer 👋
+   ###  I´m Camis , a Software Engineer
   
   <a href="https://www.linkedin.com/in/camismchaves/"><img src="https://img.shields.io/badge/-monteirocamis-purple?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:devcamismonteiro@gmail.com"><img src="https://img.shields.io/badge/-devcamismonteiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
