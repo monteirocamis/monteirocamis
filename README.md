@@ -26,7 +26,7 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 ## ⚡ Technologies & Skills
 - Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5,**
-- Back-end development using ** PHP, SQL, ASP.NET C#**
+- Back-end development using **PHP, SQL, ASP.NET C#**
 - Mobile application development using **Xamarin and Kotlin **
 - Creating scalable cloud architecture using **AWS e Azure**
 - I also have knowledge in DevOps,SCRUM, UI/UX, Fashion Design, 3D model/3Dprint using **CAD Fusion, Meshmixer and Cura slicer**
@@ -34,11 +34,11 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 - 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/)
 
-- 🌱 I’m currently learning ** Java, Cyber Security, .NET , Kotlin and Swift. **
+- 🌱 I’m currently learning **Java, Cyber Security, .NET , Kotlin and Swift. **
 
 - 👯 I’m looking to collaborate on **open source and study groups**
 
-- 🤝 I’m looking for help with ** .NET and Xamarin **
+- 🤝 I’m looking for help with **.NET and Xamarin **
 
 - 👨‍💻 All of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
 
@@ -48,6 +48,6 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 - ⚡ Fun fact **I'm a sustainable stuff lover and a have 2 dogs and you can see them on [www.instagram.com/monteirocamis] (www.instagram.com/monteirocamis)**
 
-- 💬 Ask me about ** coletivo codivas **
+- 💬 Ask me about **coletivo codivas **
 
 
