@@ -5,8 +5,8 @@
  
    ###  I´m Camis , a Software Engineer 👋
   
-  <a href="https://www.linkedin.com/in/camismchaves/"><img src="https://img.shields.io/badge/-monteirocamis-purple?style=flat&logo=Linkedin&logoColor=purple" /></a>
-  <a href="mailto:devcamismonteiro@gmail.com"><img src="https://img.shields.io/badge/-devcamismonteiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=purple" /></a>
+  <a href="https://www.linkedin.com/in/camismchaves/"><img src="https://img.shields.io/badge/-monteirocamis-purple?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:devcamismonteiro@gmail.com"><img src="https://img.shields.io/badge/-devcamismonteiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://monteirocamis.github.io"> <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fmonteirocamis.dev" /> </a>
 </p>
 
@@ -23,12 +23,12 @@
 <!--
 
 ## 🖖 About
-I´ve been working with webdevelopment since 2010. Im interested in all JS Stack and technologies, and have been working with Front-end and also back-end all this time.
+I´ve been working with webdevelopment since 2015. Im interested in all .NET C# and mobile technologies, and have been working with Front-end and also some back-end all this time.
 
 ## ⚡ Technologies & Skills
-- Front-end development using **Angular, React, Vue, JavaScript, SASS, Less, CSS3, HTML5**
-- Backend development using **Node.js, PHP, ASP.NET C#**
-- Mobile application development using **React Native and Flutter**
+- Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5**
+- Backend development using ** PHP, SQL, ASP.NET C#**
+- Mobile application development using **Xamarin and Kotlin **
 - Creating scalable cloud architecture using **AWS**
 - I also have knowledge in UI/UX, Illustration, Video, Photography , Webdesign using **Adobe Photoshop, Adobe Illustrator, Adobe Premiere and Adobe After Effects**
 
