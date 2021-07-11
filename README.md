@@ -20,47 +20,34 @@
 </table>
 </center>
 
-<!--
 
 ## 🖖 About
-I´ve been working with webdevelopment since 2015. Im interested in all .NET C# and mobile technologies, and have been working with Front-end and also some back-end all this time.
+I used to work with web development since 2015 with Wordpress, Front-end and also some back-end this time.Currently I work in Labenu and Codivas. I am  in love with all kinds of mobile technologies.
 
 ## ⚡ Technologies & Skills
-- Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5**
-- Backend development using ** PHP, SQL, ASP.NET C#**
+- Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5,**
+- Back-end development using ** PHP, SQL, ASP.NET C#**
 - Mobile application development using **Xamarin and Kotlin **
-- Creating scalable cloud architecture using **AWS**
-- I also have knowledge in UI/UX, Illustration, Video, Photography , Webdesign using **Adobe Photoshop, Adobe Illustrator, Adobe Premiere and Adobe After Effects**
-
-- 🔭 I’m currently working on [Santander Bootcamp | Fullstack Developer](https://web.digitalinnovation.one/track/8cb85681-63be-4cfe-894c-c812861e52d3)
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL, Java, SCRUM, Cyber Security, Data Science.**
-
-- 👯 I’m looking to collaborate on **study groups**
-
-- 🤝 I’m looking for help with **soft skills**
-
-- 👨‍💻 All of my projects are available at [https://replit.com/@agnrgab](https://replit.com/@agnrgab)
-
-- 📫 How to reach me **aretuza-gab@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/aretuza-nascimento/](https://www.linkedin.com/in/aretuza-nascimento/)
-
-- ⚡ Fun fact **I'm a cat lover and a have 11 cats and you can see them on instagram @gatas.da.casa**
+- Creating scalable cloud architecture using **AWS e Azure**
+- I also have knowledge in DevOps,SCRUM, UI/UX, Fashion Design, 3D model/3Dprint using **CAD Fusion, Meshmixer and Cura slicer**
 
 
+- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/)
+
+- 🌱 I’m currently learning ** Java, Cyber Security, .NET , Kotlin and Swift. **
+
+- 👯 I’m looking to collaborate on **open source and study groups**
+
+- 🤝 I’m looking for help with ** .NET and Xamarin **
+
+- 👨‍💻 All of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
+
+- 📫 How to reach me **devcamismonteiro@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/camismonteiro/](https://www.linkedin.com/in/camismonteiro/)
+
+- ⚡ Fun fact **I'm a sustainable stuff lover and a have 2 dogs and you can see them on [www.instagram.com/monteirocamis] (www.instagram.com/monteirocamis)**
+
+- 💬 Ask me about ** coletivo codivas **
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
