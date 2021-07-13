@@ -1,9 +1,5 @@
-### Hi there 👋
-
-
 <p align="center">
- 
-   ###  I´m Camis , a Software Engineer
+    ###   Hi there 👋 I´m Camis , a Software Engineer
   
   <a href="https://www.linkedin.com/in/camismchaves/"><img src="https://img.shields.io/badge/-monteirocamis-purple?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:devcamismonteiro@gmail.com"><img src="https://img.shields.io/badge/-devcamismonteiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
@@ -41,10 +37,6 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 - 🤝 I’m looking for help with **.NET and Xamarin **
 
 - 👨‍💻 All of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
-
-- 📫 How to reach me **devcamismonteiro@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/camismonteiro/](https://www.linkedin.com/in/camismonteiro/)
 
 - ⚡ Fun fact **I'm a sustainable stuff lover and a have 2 dogs and you can see them on [www.instagram.com/monteirocamis] (www.instagram.com/monteirocamis)**
 
