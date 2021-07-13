@@ -1,6 +1,8 @@
-<p align="center">
+    
     ##   Hi there 👋 I´m Camis , a Software Engineer
   
+<p align="center">
+
   <a href="https://www.linkedin.com/in/camismchaves/"><img src="https://img.shields.io/badge/-monteirocamis-purple?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:devcamismonteiro@gmail.com"><img src="https://img.shields.io/badge/-devcamismonteiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://monteirocamis.github.io"> <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fmonteirocamis.dev" /> </a>
@@ -28,7 +30,7 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 - I also have knowledge in DevOps,SCRUM, UI/UX, Fashion Design, 3D model/3Dprint using **CAD Fusion, Meshmixer and Cura slicer**
 
 
-- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/)
+- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | co-founder -DevOps](https://www.codivas.com.br/)
 
 - 🌱 I’m currently learning **Java, Cyber Security, .NET , Kotlin and Swift. **
 
