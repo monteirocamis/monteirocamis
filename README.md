@@ -38,7 +38,7 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 - 🤝 I’m looking for help with  **.NET and Xamarin**
 
-- 👨‍💻 All of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
+- 👨‍💻 Part of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
 
 - ⚡ Fun fact **I'm a sustainable stuff lover and a have 2 dogs and you can see them on [www.instagram.com/monteirocamis] (www.instagram.com/monteirocamis)**
 
