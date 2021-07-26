@@ -23,16 +23,16 @@
 I used to work with web development since 2015 with Wordpress, Front-end and also some back-end this time.Currently I work in Labenu and Codivas. I am  in love with all kinds of mobile technologies.
 
 ## ⚡ Technologies & Skills
-- Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5,**
-- Back-end development using **PHP, SQL, ASP.NET C#**
-- Mobile application development using **Xamarin and Kotlin **
+- Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5**
+- Back-end development using **PHP, SQL, ASP.NET C# , C++**
+- Mobile application development using **Xamarin and Kotlin**
 - Creating scalable cloud architecture using **AWS e Azure**
 - I also have knowledge in DevOps,SCRUM, UI/UX, Fashion Design, 3D model/3Dprint using **CAD Fusion, Meshmixer and Cura slicer**
 
 
 - 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | co-founder -DevOps](https://www.codivas.com.br/)
 
-- 🌱 I’m currently learning **Java, Cyber Security, .NET , Kotlin and Swift. **
+- 🌱 I’m currently learning **IoT, Cyber Security, .NET and Kotlin  **
 
 - 👯 I’m looking to collaborate on **open source and study groups**
 
