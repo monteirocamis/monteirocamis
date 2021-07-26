@@ -32,7 +32,7 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 - 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | co-founder -DevOps](https://www.codivas.com.br/)
 
-- 🌱 I’m currently learning **IoT, Cyber Security, .NET and Kotlin  **
+- 🌱 I’m currently learning **IoT, Cyber Security, .NET and Kotlin**
 
 - 👯 I’m looking to collaborate on **open source and study groups**
 
