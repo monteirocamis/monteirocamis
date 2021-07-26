@@ -36,7 +36,7 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 - 👯 I’m looking to collaborate on **open source and study groups**
 
-- 🤝 I’m looking for help with **.NET and Xamarin **
+- 🤝 I’m looking for help with  **.NET and Xamarin**
 
 - 👨‍💻 All of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
 
