@@ -24,10 +24,10 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 ## ⚡ Technologies & Skills
 - Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5**
-- Back-end development using **PHP, SQL, ASP.NET C# , C++**
-- Mobile application development using **Xamarin and Kotlin**
-- Creating scalable cloud architecture using **AWS e Azure**
-- I also have knowledge in DevOps,SCRUM, UI/UX, Fashion Design, 3D model/3Dprint using **CAD Fusion, Meshmixer and Cura slicer**
+- Back-end development using **PHP, SQL, .NET, C# , C++**
+- Mobile application development using **Xamarin C# and Kotlin**
+- Creating scalable cloud architecture using **AWS , Azure and Docker**
+- I also have knowledge in **DevOps,SCRUM, UI/UX, Fashion Design, 3D model/3Dprint using CAD Fusion, Meshmixer and Cura slicer**
 
 
 - 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | co-founder -DevOps](https://www.codivas.com.br/)
@@ -36,7 +36,7 @@ I used to work with web development since 2015 with Wordpress, Front-end and als
 
 - 👯 I’m looking to collaborate on **open source and study groups**
 
-- 🤝 I’m looking for help with  **.NET and Xamarin**
+- 🤝 I’m looking for help with  **Xamarin**
 
 - 👨‍💻 Part of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
 
