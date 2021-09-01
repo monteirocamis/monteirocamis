@@ -21,7 +21,7 @@
  
 
 ## 🖖 About
-I started on tech, working with web development since 2015 using Wordpress and in 2017 learned IoT for fashion and Front end development during the bootcamp Reprograma.
+I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned IoT for fashion and Front end development during the bootcamp **Reprograma**.
 
 ## ⚡ Technologies & Skills
 - Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5**
