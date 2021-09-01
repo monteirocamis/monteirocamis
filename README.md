@@ -42,4 +42,5 @@ I started on tech working with web development since 2015 using Wordpress and in
 
 - 💬 Ask me about **coletivo codivas**
 
-
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
