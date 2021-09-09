@@ -28,11 +28,11 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 - Back-end development using **PHP, SQL, .NET, C# , C++**
 - Mobile application development using **Xamarin C# and Kotlin**
 - Creating scalable cloud architecture using **AWS , Azure and Docker**
-- I also have knowledge in **DevOps,SCRUM, UI/UX, infrastructure, Fashion Design, 3D model/3Dprint using CAD Fusion, Meshmixer and Cura slicer**
+- I also have knowledge in **DevOps,SCRUM, UI/UX, infrastructure, Fashion Design and 3D model/3Dprint**
 
-- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | co-founder -DevOps](https://www.codivas.com.br/)
+- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | co-founder ](https://www.codivas.com.br/)
 
-- 🌱 I’m currently learning **Computer Science Bachelor at Anhembi Morumbi EAD and Infra**
+- 🌱 I’m currently learning **Computer Science Bachelor at Anhembi Morumbi EAD**
 
 - 👯 I’m looking to collaborate on **open source and study groups**
 
