@@ -2,8 +2,7 @@
     ##   Hi there 👋 I´m Camis , a Software Engineer
 
 
- ![Snake animation](https://github.com/monteirocamis/monteirocamis/blob/output/github-contribution-grid-snake.svg)
- 
+
 
 ## 🖖 About
 I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned IoT for fashion and Front end development during the bootcamp **Reprograma**. Nowadays I teach Front end development Online.
@@ -27,7 +26,8 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 
 - 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football**
 
-
+ ![Snake animation](https://github.com/monteirocamis/monteirocamis/blob/output/github-contribution-grid-snake.svg)
+ 
   
 <p align="center">
 
