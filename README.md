@@ -21,16 +21,16 @@
  
 
 ## 🖖 About
-I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned IoT for fashion and Front end development during the bootcamp **Reprograma**.
+I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned IoT for fashion and Front end development during the bootcamp **Reprograma**. Nowadays I teach Front end development Online.
 
 ## ⚡ Technologies & Skills
 - Front-end development using **Bootstrap, React, JavaScript, SASS, CSS3, HTML5**
 - Back-end development using **PHP, SQL, .NET, C# , C++**
-- Mobile application development using **Xamarin C# and Kotlin**
+- Mobile development using **Xamarin C# and Kotlin**
 - Creating scalable cloud architecture using **AWS , Azure and Docker**
-- I also have knowledge in **DevOps,SCRUM, UI/UX, infrastructure, Fashion Design and 3D model/3Dprint**
+- I also have knowledge in **DevOps,SCRUM, infrastructure and 3D model/3Dprint**
 
-- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | co-founder ](https://www.codivas.com.br/)
+- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas |founder Teach Leader ](https://www.codivas.com.br/)
 
 - 🌱 I’m currently learning **Computer Science Bachelor at Anhembi Morumbi EAD**
 
