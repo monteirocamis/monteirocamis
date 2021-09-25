@@ -36,12 +36,10 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 
 - 👯 I’m looking to collaborate on **open source and study groups**
 
-- 🤝 I’m looking for help with  **Xamarin**
+- 🤝 I’m looking for help with  **AWS**
 
-- 👨‍💻 Part of my projects are available at [https://monteirocamis.github.io/](https://monteirocamis.github.io/)
+- ⚡ Fun fact **I'm a sustainable stuff specialist [www.instagram.com/monteirocamis] (www.instagram.com/monteirocamis)**
 
-- ⚡ Fun fact **I'm a sustainable stuff lover [www.instagram.com/monteirocamis] (www.instagram.com/monteirocamis)**
-
-- 💬 Ask me about **coletivo codivas**
+- 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football**
 
 
