@@ -16,7 +16,7 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 
 - 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | founder Teach Leader ](https://www.codivas.com.br/)
 
-- 🌱 I’m currently learning **Computer Science Bachelor | Anhembi Morumbi EAD and AWS | Campinho Digital**
+- 🌱 I’m currently learning **Computer Science Bachelor | Anhembi Morumbi EAD and Cloud on AWS **
 
 - 👯 I’m looking to collaborate on **Hacktoberfest , open source and study groups**
 
