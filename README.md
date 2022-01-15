@@ -8,7 +8,7 @@
 I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**. Nowadays I teach Front end development Online at **Labenu** and coordenate projects at **Codivas**.
 
 ## ⚡ Technologies & Skills
-- Front-end development using **HTML5 ,CSS3,  SASS/SCSS,JavaScript, React, Bootstrap and Wordpress **
+- Front-end development using **HTML5 ,CSS3,  SASS/SCSS,JavaScript, React, Bootstrap and Wordpress**
 - Mobile development using **Xamarin C#,  Kotlin and React**
 - Back-end development using **PHP, SQL, .NET, C# , C++**
 - Creating scalable cloud architecture using **AWS and Docker**
