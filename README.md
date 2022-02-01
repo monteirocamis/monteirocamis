@@ -9,14 +9,14 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 
 ## ⚡ Technologies & Skills
 - Front-end development using **HTML5 ,CSS3,  SASS/SCSS,JavaScript, React, Bootstrap and Wordpress**
-- Mobile development using **Xamarin C#,  Kotlin and React**
+- Mobile development using **Xamarin C# and  Kotlin **
 - Back-end development using **PHP, SQL, .NET, C# ,C e C++**
 - Creating scalable cloud architecture using **AWS and Docker**
 - I also have knowledge in **DevOps, Leaderships and 3D model/3Dprint**
 
 - 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | founder Teach Leader ](https://www.codivas.com.br/)
 
-- 🌱 I’m currently learning **Computer Science Bachelor | Anhembi Morumbi, mobile development and Cloud**
+- 🌱 I’m currently learning **Computer Science Bachelor | Anhembi Morumbi and Cloud**
 
 - 👯 I’m looking to collaborate on **Hacktoberfest , open source and study groups**
 
