@@ -10,7 +10,7 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 ## ⚡ Technologies & Skills
 - Front-end development using **HTML5 ,CSS3,Bootstrap, SASS/SCSS,JavaScript, React, Typescript and PHP**
 - Mobile development using **Xamarin C# , Java and  Kotlin**
-- Back-end development using **SQL, Java , .NET, C# ,C e C++**
+- Back-end development using **SQL, Java , .NET, C# ,C and C++**
 - Creating scalable cloud architecture using **AWS and Docker**
 - I also have knowledge in **DevOps, Leaderships and 3D model/3Dprint**
 
