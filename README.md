@@ -11,8 +11,8 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 - Creating scalable cloud architecture using **AWS and Docker**
 - I also have knowledge in **DevOps, Leaderships and 3D model/3Dprint**
 - 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | founder Tech Leader ](https://www.codivas.com.br/)
-- 🌱 I’m currently learning **Computer Science Bachelor | Anhembi Morumbi and Cloud**
-- 👯 I’m looking to collaborate on **Hacktoberfest , open source and study groups**
+- 🌱 I’m currently learning **Computer Science Bachelor | Anhembi Morumbi**
+- 👯 I’m looking to collaborate on **Hacktoberfest and open source**
 - ⚡ Fun fact **I'm a sustainable designer specialist [www.instagram.com/monteirocamis]**
 - 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football**
 
