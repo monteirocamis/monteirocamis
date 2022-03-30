@@ -10,7 +10,7 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
   <img align="center" alt="Html"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/html.svg">
   <img align="center" alt="css"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/css.svg">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-<img align="center" alt="React"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react.svg">
+<img align="center" alt="React"      height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
 
   <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
   <img align="center" alt="Kotlin"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/kotlin.svg">
