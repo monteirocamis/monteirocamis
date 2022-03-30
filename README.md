@@ -5,6 +5,23 @@
 I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**. Nowadays I teach Front end development Online at **Labenu** and coordenate projects at **Codivas**.
 
 ## ⚡ Technologies & Skills
+<div style="display: inline_block">
+
+  <img align="center" alt="Html"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/html.svg">
+  <img align="center" alt="css"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/css.svg">
+  <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
+<img align="center" alt="React"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/react.svg">
+
+  <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
+  <img align="center" alt="Kotlin"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/kotlin.svg">
+  <img align="center" alt="Java"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/java.svg">
+
+  <img align="center" alt="Cplusplus"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/Cplusplus.svg">
+<img align="center" alt="csharp"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/csharp.svg">
+<img align="center" alt="dotnet"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/dotnet.svg">
+ <img align="center" alt="xamarin"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/xamarin.svg">
+</div>
+
 - Front-end development using **HTML5 ,CSS3,Bootstrap, SASS/SCSS,JavaScript, React and PHP**
 - Mobile development using **Xamarin C# , Java and  Kotlin**
 - Back-end development using **SQL, Java , .NET, C# ,C and C++**
