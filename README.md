@@ -13,6 +13,10 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
   <img align="center" alt="css"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/512/PNG/512/css3-01_icon-icons.com_50918.png">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
 <img align="center" alt="React"      height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+          <img align="center" alt="Java"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
+    <img align="center" alt="Java"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
+     <img align="center" alt="Java"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png">
+
 
 - Mobile development using **Xamarin C# , Java and  Kotlin**
 
@@ -26,6 +30,8 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 <img align="center" alt="csharp"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/3389/PNG/512/c_sharp_icon_213045.png">
 <img align="center" alt="dotnet"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_wordmark_logo_icon_146547.png">
  <img align="center" alt="xamarin"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/xamarin_icon_131867.png">
+          <img align="center" alt="Java"         height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/java.svg">
+
 </div>
 
 
