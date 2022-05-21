@@ -18,7 +18,7 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
      <img align="center" alt="Java"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png">
 
 
-- Mobile development using **Xamarin C#  or  Kotlin**
+- Mobile development using **Xamarin C# , React Native or  Kotlin**
 
   <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
   <img align="center" alt="Kotlin"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/kotlin.svg">
