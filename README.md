@@ -13,16 +13,16 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
   <img align="center" alt="css"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/512/PNG/512/css3-01_icon-icons.com_50918.png">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
 <img align="center" alt="React"      height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
-          <img align="center" alt="Java"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
-    <img align="center" alt="Java"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
-     <img align="center" alt="Java"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png">
+          <img align="center" alt="PHP "         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png">
+    <img align="center" alt="bootstrap"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
+     <img align="center" alt="sass"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png">
 
 
 - Mobile development using **Xamarin C# , React Native or  Kotlin**
 
   <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
   <img align="center" alt="Kotlin"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/kotlin.svg">
-
+<img align="center" alt="React"      height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
 
 - Back-end development using **SQL, Java , .NET, C# ,C , C++  or PHP**
 
