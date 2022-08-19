@@ -36,7 +36,7 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 </div>
 
 - I also have knowledge in **3D modeling and 3Dprint**
-- 🔭 I’m an Full-stack Intern  at [ Avanade Brasil ](https://www.avanade.com/pt-br) and Founder at [ codivas ](https://www.codivas.com.br/)
+- 🔭 I’m practicing Full-stack development as an Intern  at [ Avanade Brasil ](https://www.avanade.com/pt-br) and Founder at [ codivas ](https://www.codivas.com.br/)
 - 🌱 I’m a bachelor student with scientific research in IoT **Computer Science | Anhembi Morumbi**
 - 👯 I’m looking to impacr lifes with **Creative codes and open source**
 - ⚡ Fun fact **I'm a sustainable designer specialist [www.instagram.com/monteirocamis]**
