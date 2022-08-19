@@ -35,16 +35,12 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 
 </div>
 
-
-
-
-- Creating scalable cloud architecture using **AWS and Docker**
-- I also have knowledge in **3D model/3Dprint**
-- 🔭 I’m currently working on [ Labenu | instructor of web development ](https://www.labenu.com.br/) and [ codivas | founder Tech Leader ](https://www.codivas.com.br/)
-- 🌱 I’m currently learning **Computer Science Bachelor | Anhembi Morumbi**
-- 👯 I’m looking to collaborate on **Hacktoberfest and open source**
+- I also have knowledge in **3D modeling and 3Dprint**
+- 🔭 I’m an Full-stack Intern  at Avanade Brasil and Founder at [ codivas ](https://www.codivas.com.br/)
+- 🌱 I’m a bachelor student with scientific research in IoT **Computer Science | Anhembi Morumbi**
+- 👯 I’m looking to impacr lifes with **Creative codes and open source**
 - ⚡ Fun fact **I'm a sustainable designer specialist [www.instagram.com/monteirocamis]**
-- 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football**
+- 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football - CFL / NFL **
 
  ![Snake animation](https://github.com/monteirocamis/monteirocamis/blob/output/github-contribution-grid-snake.svg)
    
