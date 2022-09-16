@@ -1,8 +1,11 @@
     
-    ##   Hi there 👋 I´m Camis , a Software Engineer
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-## 🖖 About
-I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**. Nowadays I teach Front end development Online at **Labenu** and coordenate projects at **Codivas**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Camila;I'm+a+Full-Stack+Developer;I'm+studying+Computer+Science)](https://git.io/typing-svg)
+
+## 🖖 About & history
+I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
+  I used to be a teacher in  Front end development Online at **Labenu**.
 
 ## ⚡ Technologies & Skills
 <div style="display: inline_block">
@@ -49,3 +52,16 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
   </tr>  
 </table>
 </center>
+  <a target="_blank" href="https://www.linkedin.com/in/camismonteiro/"  >
+  <img
+    src="https://img.shields.io/badge/-Camila Monteiro-%230077B5?Style=for-the-badge&logo=linkedin&logoColor=white" alt="Imagem do LinkedIn que encaminha para o perfil de Camila na Rede Social Profissional do LinkedIn"
+    target="_blank" 
+  />    
+
+  
+<div align="center">
+  <br><p><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{monteirocamis}/count.svg" /></p> 
+<br></div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=footer&text=Thank+you+for+visiting+me!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
