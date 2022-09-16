@@ -52,11 +52,6 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
   </tr>  
 </table>
 </center>
-  <a target="_blank" href="https://www.linkedin.com/in/camismonteiro/"  >
-  <img
-    src="https://img.shields.io/badge/-Camila Monteiro-%230077B5?Style=for-the-badge&logo=linkedin&logoColor=white" alt="Imagem do LinkedIn que encaminha para o perfil de Camila na Rede Social Profissional do LinkedIn"
-    target="_blank" 
-  />    
 
   
 <div align="center">
