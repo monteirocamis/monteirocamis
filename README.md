@@ -1,7 +1,7 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Camila;I'm+a+Full-Stack+Developer;I'm+studying+Game+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Camila;I'm+a+Full-Stack+Developer;I'm+studying+.NET+Development)](https://git.io/typing-svg)
 
 ## 🖖 About & history
 I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
@@ -27,10 +27,10 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
  <br>
 
 
-- I also have knowledge in **3D modeling and 3Dprint**
+- I also have knowledge in **3D model and 3Dprint**
 - 🔭 I’m practicing Full-stack development as an Intern  at [ Avanade Brasil ](https://www.avanade.com/pt-br) and Founder at [ codivas ](https://www.codivas.com.br/)
 - 🌱 I’m a bachelor student of **Computer Science** with **scientific research in IoT** 
-- 👯 I’m looking to impact lifes with **Creative codes and open source**
+- 👯 I’m looking to impact lifes with **Creative code and open source**
 - ⚡ Fun fact I used to be a  **[ sustainable designer](https://www.instagram.com/monteirocamis) specialist**
 - 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football**
 
