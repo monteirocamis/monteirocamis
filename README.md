@@ -12,6 +12,7 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 <div align="center">
 
 
+  <img align="center" alt="asp.net"         height="30" width="40" src="https://img.icons8.com/color/512/net-framework.png">
   <img align="center" alt="Html"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_html5_html_71.png">
   <img align="center" alt="css"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/512/PNG/512/css3-01_icon-icons.com_50918.png">
     <img align="center" alt="bootstrap"  height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
