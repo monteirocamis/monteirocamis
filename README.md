@@ -44,15 +44,6 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 
 ## Github Stats :octocat:
 
-<center>
-<table>
-  <tr>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=monteirocamis&show_icons=true ></td>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=monteirocamis&show_icons=true&layout=compact></td>
-  </tr>  
-</table>
-</center>
-
       
   ![Contribution](https://activity-graph.herokuapp.com/graph?username=monteirocamis&theme=gotham&hide_border=true&area=true)
 
