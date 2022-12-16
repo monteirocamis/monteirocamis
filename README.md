@@ -11,16 +11,18 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 ## ⚡ Technologies & Skills
 <div align="center">
 
-  <img align="center" alt="asp.net"         height="30" width="40" src="https://img.icons8.com/color/512/angularjs.png">
+  <img align="center" alt="angular"         height="30" width="40" src="https://img.icons8.com/color/512/angularjs.png">
   <img align="center" alt="asp.net"         height="30" width="40" src="https://img.icons8.com/color/512/net-framework.png">
-  <img align="center" alt="Html"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_html5_html_71.png">
-  <img align="center" alt="css"         height="30" width="40" src="https://cdn.icon-icons.com/icons2/512/PNG/512/css3-01_icon-icons.com_50918.png">
+  <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
+  <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
     <img align="center" alt="bootstrap"  height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
   <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">    <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png">  
-<img align="center" alt="csharp"   height="30" width="40" src="https://cdn.icon-icons.com/icons2/3389/PNG/512/c_sharp_icon_213045.png"><img align="center" alt="xamarin"      height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/xamarin_icon_131867.png">  <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
+<img align="center" alt="csharp"   height="30" width="40" src="https://img.icons8.com/color/512/c-sharp-logo-2.png">
+        <img align="center" alt="Cplusplus"   height="30" width="40" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
+    <img align="center" alt="xamarin"      height="30" width="40" src="https://img.icons8.com/color/512/xamarin.png">  <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
   <img align="center" alt="Kotlin"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/kotlin.svg">
-    <img align="center" alt="Cplusplus"   height="30" width="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"> <img align="center"alt="Openframeworks"   height="30" width="40" src="https://avatars2.githubusercontent.com/u/142866?s=280&v=4"> <img align="center" alt="arduino"     height="30" width="40" src="https://img.icons8.com/fluency/344/arduino.png">
+ <img align="center"alt="Openframeworks"   height="30" width="40" src="https://avatars2.githubusercontent.com/u/142866?s=280&v=4"> <img align="center" alt="arduino"     height="30" width="40" src="https://img.icons8.com/fluency/344/arduino.png">
 
 </div>
 
