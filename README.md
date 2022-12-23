@@ -6,7 +6,7 @@
 ## 🖖 About & history
 I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
   I was 1 year a teacher in  Front end development Online at **Labenu**.
-  I am studying Power BI and Azure cloud to get my Microsoft certifications.
+  I am studying Power BI and Azure cloud to get my Microsoft certifications but when I can I study Game development ❤️ .
  <br>
 ## ⚡ Technologies & Skills
 <div align="center">
@@ -32,7 +32,7 @@ I started on tech, working with web development at 2015 ( using *Wordpress* + CS
 - I also have knowledge in **3D model and 3Dprint**
 - 🔭 I’m practicing Full-stack development as an Intern  at [ Avanade Brasil ](https://www.avanade.com/pt-br) and Founder at [ codivas ](https://www.codivas.com.br/)
 - 🌱 I’m a bachelor student of **Computer Science** with **scientific research in IoT** 
-- 👯 I’m looking to impact lifes with **Creative code and open source**
+- 👯 I’m looking to impact lifes with **Creative code**
 - ⚡ Fun fact I used to be a  **[ sustainable designer](https://www.instagram.com/monteirocamis) specialist**
 - 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football**
 
