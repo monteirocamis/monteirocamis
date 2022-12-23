@@ -6,7 +6,7 @@
 ## 🖖 About & history
 I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
   I was 1 year a teacher in  Front end development Online at **Labenu**.
-  I am studying game development to implement my skills in 3d model ans coding together.
+  I am studying Power BI and Azure cloud to get my Microsoft certifications.
  <br>
 ## ⚡ Technologies & Skills
 <div align="center">
