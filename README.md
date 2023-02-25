@@ -34,7 +34,7 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
 - 🌱 I’m a bachelor student of **Computer Science** with **scientific research in IoT** 
 - 👯 I’m looking to impact lifes with **Creative code**
 - ⚡ Fun fact I used to be a  **[ sustainable designer](https://www.instagram.com/monteirocamis) specialist**
-- 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance and American football**
+- 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance ,roller skating inline  and American football**
 
  ![Snake animation](https://github.com/monteirocamis/monteirocamis/blob/output/github-contribution-grid-snake.svg)
    
