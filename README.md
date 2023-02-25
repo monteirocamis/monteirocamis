@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Camila;I'm+a+Full-Stack+Developer;I'm+studying+.NET+Development)](https://git.io/typing-svg)
 
 ## 🖖 About & history
-I started on tech, working with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
+I started working on tech with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
   I was 1 year a teacher in  Front end development Online at **Labenu**.
   I am studying Power BI and Azure cloud to get my Microsoft certifications but when I can I study Game development ❤️ .
  <br>
