@@ -6,7 +6,7 @@
 ## 🖖 About & history
 I started working on tech with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
   I was 1 year a teacher in  Front end development Online at **Labenu**.
-  I am studying Creative coding for web ❤️ .
+  I am studying Creative coding with human interactions for web ❤️ 
  <br>
 ## ⚡ Technologies & Skills
 <div align="center">
@@ -29,11 +29,12 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
  <br>
 
 
-- I also have knowledge in **3D modeling and 3D printing**
+
 - 🔭 I’m making beautiful web pages with Front-end development at [ Poliedro ](https://www.poliedroeducacao.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
-- 🌱 I’m a bachelor student of **Computer Science** with **scientific research in IoT** 
+- 🌱 I’m a bachelor student of **Computer Science** with **scientific research for IoT** 
 - 👯 I’m looking to impact lifes with **Creative code**
-- ⚡ Fun fact I used to be a  **[ sustainable designer](https://www.instagram.com/creativecamis) specialist**
+- ⚡ Fun fact, I used to be a  **[ sustainable designer](https://www.instagram.com/creativecamis) specialist**
+- I also have knowledge in **3D modeling and 3D printing**
 - 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance ,roller skating inline  and American football**
 
  ![Snake animation](https://github.com/monteirocamis/monteirocamis/blob/output/github-contribution-grid-snake.svg)
