@@ -5,19 +5,18 @@
 
 ## 🖖 About & history
 I started working on tech with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
-  I was 1 year a teacher in  Front end development Online at **Labenu**.
   I am studying Creative coding with human interactions for web ❤️ 
  <br>
 ## ⚡ Technologies & Skills
 <div align="center">
 
  
-  <img align="center" alt="asp.net"         height="30" width="40" src="https://img.icons8.com/color/512/net-framework.png">
+  
   <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
     <img align="center" alt="bootstrap"  height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
   <img align="center" alt="Javascript"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/javascript.svg">
-  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">   <img align="center" alt="angular"         height="30" width="40" src="https://img.icons8.com/color/512/angularjs.png">  <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png">  
+  <img align="center" alt="React"height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"> <img align="center" alt="Typescript" height="30" width="40" src="https://img.icons8.com/fluency/344/typescript.png">    <img align="center" alt="angular"         height="30" width="40" src="https://img.icons8.com/color/512/angularjs.png">  <img align="center" alt="asp.net"         height="30" width="40" src="https://img.icons8.com/color/512/net-framework.png">
 <img align="center" alt="csharp"   height="30" width="40" src="https://img.icons8.com/color/512/c-sharp-logo-2.png">
         <img align="center" alt="Cplusplus"   height="30" width="40" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
     <img align="center" alt="xamarin"      height="30" width="40" src="https://img.icons8.com/color/512/xamarin.png">  <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
@@ -28,14 +27,12 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
 
  <br>
 
-
-
 - 🔭 I’m making beautiful web pages with Front-end development at [ Poliedro ](https://www.poliedroeducacao.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
 - 🌱 I’m a bachelor student of **Computer Science** with **scientific research for IoT** 
 - 👯 I’m looking to impact lifes with **Creative code**
-- ⚡ Fun fact, I used to be a  **[ sustainable designer](https://www.instagram.com/creativecamis) specialist**
+- ⚡ Fun fact, I used to be a sustainable designer specialist
 - I also have knowledge in **3D modeling and 3D printing**
-- 🩰🏈 My favorite Sports: **Jazz Dance , Ballet Dance ,roller skating inline  and American football**
+- 🩰 My favorite Sports: **Jazz Dance , Ballet Dance and roller skating inline**
 
  ![Snake animation](https://github.com/monteirocamis/monteirocamis/blob/output/github-contribution-grid-snake.svg)
    
@@ -45,10 +42,7 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
   <a href="mailto:devcamismonteiro@gmail.com"><img src="https://img.shields.io/badge/-devcamismonteiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
-## Github Stats :octocat:
-
-      
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=monteirocamis&theme=gotham&hide_border=true&area=true)
+## :octocat: Github Stats 
 
 <div align="center">
   <br><p><b>Visitors Count</b></p>  
