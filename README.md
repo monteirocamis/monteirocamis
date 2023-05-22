@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Camila;I'm+a+Front-end+Developer;I'm+studying+Game+Development)](https://git.io/typing-svg)
 
 ## 🖖 About & history
-I started working on tech with web development at 2015 ( using *Wordpress* + CSS) and in 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
+I started working on tech with web development at 2015 ( using *Wordpress* + CSS) .In 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
   I am studying Creative coding with human interactions for web ❤️ 
  <br>
 ## ⚡ Technologies & Skills
