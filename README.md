@@ -28,7 +28,7 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
  <br>
 
 - 🔭 I’m making beautiful web pages with Front-end development at [ Poliedro ](https://www.poliedroeducacao.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
-- 🌱 I’m a bachelor student of **Computer Science** with **scientific research** for UAM , about IoT and sustainability  and for UFRGS about nutritional data analysis. 
+- 🌱 I’m a bachelor student of **Computer Science** with **scientific research** for UAM , about sustainability IoT and for UFRGS about nutritional data analysis. 
 - 👯 I’m looking to impact lifes with **Creative code**
 - ⚡ Fun fact, I used to be a sustainable designer specialist
 - I also have knowledge in **3D modeling and 3D printing**
