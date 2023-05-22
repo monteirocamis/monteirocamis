@@ -11,7 +11,8 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
 <div align="center">
 
  
-  
+  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/unity_icon_136074.png"> 
+    <img align="center" alt="blender" height="30" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png">
   <img align="center" alt="Html"         height="30" width="40" src="https://img.icons8.com/color/512/html-5.png">
   <img align="center" alt="css"         height="30" width="40" src="https://img.icons8.com/color/512/css3.png">
     <img align="center" alt="bootstrap"  height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
@@ -21,7 +22,7 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
         <img align="center" alt="Cplusplus"   height="30" width="40" src="https://img.icons8.com/color/512/c-plus-plus-logo.png">
     <img align="center" alt="xamarin"      height="30" width="40" src="https://img.icons8.com/color/512/xamarin.png">  <img align="center" alt="android"      height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/1629923496721.svg">
   <img align="center" alt="Kotlin"       height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/kotlin.svg">
- <img align="center"alt="Openframeworks"   height="30" width="40" src="https://avatars2.githubusercontent.com/u/142866?s=280&v=4"> <img align="center" alt="arduino"     height="30" width="40" src="https://img.icons8.com/fluency/344/arduino.png">
+ <img align="center"alt="Openframeworks"   height="30" width="40" src="https://avatars2.githubusercontent.com/u/142866?s=280&v=4"> <img align="center" alt="arduino"     height="30" width="40" src="https://img.icons8.com/fluency/344/arduino.png">   
 
 </div>
 
