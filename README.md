@@ -1,7 +1,7 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67e22&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Camila;I'm+a+Front-end+Developer;I'm+studying+Game+Development)](https://git.io/typing-svg)
+
 
 ## 🖖 About & history
 I started working on tech with web development at 2015 ( using *Wordpress* + CSS) .In 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
@@ -37,8 +37,7 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
 - I also have knowledge in **3D modeling and 3D printing**
 - 🩰 My favorite Sports: **Jazz Dance , Ballet Dance and roller skating inline**
 
- ![Snake animation](https://github.com/monteirocamis/monteirocamis/blob/output/github-contribution-grid-snake.svg)
-   
+
 <p align="center">
 
   <a href="https://www.linkedin.com/in/camismchaves/"><img src="https://img.shields.io/badge/-monteirocamis-purple?style=flat&logo=Linkedin&logoColor=white" /></a>
