@@ -5,7 +5,7 @@
 
 ## 🖖 About & history
 I started working on tech with web development at 2015 ( using *Wordpress* + CSS) .In 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
-  I am studying Creative coding with human interactions , aspiring game development  ❤️ 
+  I am studying Creative coding with human interactions  ❤️ 
  <br>
 ## ⚡ Technologies & Skills
 <div align="center">
