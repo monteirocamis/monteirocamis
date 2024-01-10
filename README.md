@@ -5,7 +5,7 @@
 
 ## 🖖 About & history
 I started working on tech with web development at 2015 ( using *Wordpress* + CSS) .In 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
-  I am studying Web 3D and XR. Creative coding with HTML5 CSS3 and Javascript with Three.js   ❤️ 
+  I am studying Web 3D with creative coding  HTML5 CSS3 and Javascript with Three.js and XR for environment simulators   ❤️ 
  <br>
 ## ⚡ Technologies & Skills
 <div align="center">
@@ -28,7 +28,7 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
  <br>
 
 - 🔭 I’m teaching classes online with [ Reprograma ](https://www.reprograma.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
-- 🌱 I’m a student of **Game development**  at Uninter, and I already studiec Computer science with **scientific research** for:
+- 🌱 I’m a student of **Game development**  at Uninter, and I already studied Computer science with **scientific research** for:
     - UAM , about sustainability IoT .
 - 👯 I’m looking to impact lifes with **Creative code and XR**
 - ⚡ Fun fact, I used to be a sustainable designer specialist
