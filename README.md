@@ -27,7 +27,7 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
 
  <br>
 
-- 🔭 I’m teaching classes online with [ Reprograma ](https://www.reprograma.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
+- 🔭 I teach classes online with [ Reprograma ](https://www.reprograma.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
 - 🌱 I’m a student of **Game development**  at Uninter, and I already studied Computer science with **scientific research** for:
     - UAM , about sustainability IoT .
 - 👯 I’m looking to impact lifes with **Creative code and XR**
