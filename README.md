@@ -5,7 +5,7 @@
 
 ## 🖖 About & history
 I started working on tech with web development at 2015 ( using *Wordpress* + CSS) .In 2017 learned *IoT* for fashion and Front end development during the bootcamp **Reprograma**.
-  I am studying Web 3D with creative coding  HTML5 CSS3 and Javascript with Three.js and XR for environment simulators   ❤️ 
+Nowadays,  I am studying AR / VR for environment simulators   ❤️ 
  <br>
 ## ⚡ Technologies & Skills
 <div align="center">
@@ -27,17 +27,17 @@ I started working on tech with web development at 2015 ( using *Wordpress* + CSS
 
  <br>
 
-- 🔭 I teach classes online with [ Reprograma ](https://www.reprograma.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
+- 🔭 I am AR/VR Development Internship [ MISSIM ](https://www.missim.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
 - 🌱 I’m a student of **Game development**  at Uninter, and I already studied Computer science with **scientific research** for:
-    - UAM , about sustainability IoT .
-- 👯 I’m looking to impact lifes with **Creative code and XR**
+    - Software development, Uninter  
+    - UAM , Interneet of things .
+- 👯 I’m looking to impact lifes with **XR and 3D art**
 - ⚡ Fun fact, I used to be a sustainable designer specialist
 - I also have knowledge in **3D art and 3D printing**
 - 🩰 My favorite Sports: **Jazz Dance , Ballet Dance and roller skating inline**
 
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/camismchaves/"><img src="https://img.shields.io/badge/-monteirocamis-purple?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:devcamismonteiro@gmail.com"><img src="https://img.shields.io/badge/-devcamismonteiro@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
