@@ -27,14 +27,12 @@ Nowadays,  I am studying AR / VR for environment simulators   ❤️
 
  <br>
 
-- 🔭 I am AR/VR Development Internship [ MISSIM ](https://www.missim.com.br/) and Co-Founder [ codivas ](https://www.codivas.com.br/)
+- 🔭 I am a Founder of 3D printing fashion design [ NewSew 3D ](https://www.newsew.com.br/)
 - 🌱 I’m a student of **Game development**  at Uninter, and I already studied Computer science with **scientific research** for:
-    - Software development, Uninter  
-    - UAM , Interneet of things .
-- 👯 I’m looking to impact lifes with **XR and 3D art**
-- ⚡ Fun fact, I used to be a sustainable designer specialist
+- 👯 I’m looking to impact lifes with **AR/VR and 3D art**
+- ⚡ Fun fact, I used to be a Hotel receptionist for 10 years
 - I also have knowledge in **3D art and 3D printing**
-- 🩰 My favorite Sports: **Jazz Dance , Ballet Dance and roller skating inline**
+- 🩰 My favorite Sports: **  Dance and roller skating **
 
 
 <p align="center">
